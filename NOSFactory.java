@@ -1,0 +1,3 @@
+interface NOSFactory {
+    NOS createNOS();
+}
